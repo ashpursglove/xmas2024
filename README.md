@@ -53,7 +53,7 @@ It should only take a few seconds to stich it all together and then the complete
 
 You can now delete all the other files and move this to somewhere nice. I spent ages making that .ico file look nice so it would look great on your desktop, hint hint!
 
-![image](https://github.com/user-attachments/assets/43febf29-a645-4282-b5b1-d2cc9314cb82)
+![image](https://github.com/user-attachments/assets/8f302ed1-84ca-4072-bc32-1569330b0996)
 
 See!! so so pretty!
 
