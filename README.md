@@ -163,7 +163,7 @@ Just a simple settings menu. During testing of sending this to other computers t
 
 I've also made it run a dark mode by default but I've also make another lighter colour scheme for everything if you prefer to be blinded so horses for courses. Just select the mode in the dropdown menu that you prefer.
 
-![image](https://github.com/user-attachments/assets/31532a07-f779-4861-9299-c14f7a2a132d)
+![image](https://github.com/user-attachments/assets/7732c794-4688-4e90-8635-05a401d22376)
 
 
 
