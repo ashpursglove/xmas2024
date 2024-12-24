@@ -49,7 +49,7 @@ Now you should see the 7-Zip option. Move your mouse over it to see its internal
 
 It should only take a few seconds to stich it all together and then the completed exe will appear.
 
-![image](https://github.com/user-attachments/assets/93607d32-5e5a-4987-a76d-44ef594b3b56)
+![image](https://github.com/user-attachments/assets/c8c653af-b285-4de2-a11c-24948785055f)
 
 You can now delete all the other files and move this to somewhere nice. I spent ages making that .ico file look nice so it would look great on your desktop, hint hint!
 
