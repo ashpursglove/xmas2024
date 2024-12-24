@@ -91,8 +91,6 @@ Anyway, for now you have the Mars Curiosity Rover and all of its cameras! Start 
 
 And now select if you want to look for pictures on a specific Earth day or a particular Sol. After playing with it a while I prefer to use Sol, but you do you.
 
-![image](https://github.com/user-attachments/assets/91cff450-3788-4f3d-a905-f4e89238f71e)
-
 ![image](https://github.com/user-attachments/assets/d4dc7858-9d02-440a-8f89-91cbe3e33858)
 
 After you have selected which you'd prefer, pop in your preferred date/Sol. Obviously if you’re wanting to look at the landing cams etc go with sol 0.
@@ -101,7 +99,7 @@ When you have everything ready click on the "Get Photos" button.
 
 NOW THIS TAKES AGES!!! Don’t worry, it hasn’t crashed. The NASA API for other services like EPIC is fine, but for the mars rover the requests take sooooooooo long to get back so sit tight and wait with bated breath!
 
-![image](https://github.com/user-attachments/assets/5b81bf37-3f9c-490d-ba66-f999c389c1ab)
+![image](https://github.com/user-attachments/assets/dde884ad-719a-40ce-843e-846c758ab597)
 
 Once your picture is up you can cycle through earlier and later picture on that camera with the previous and next buttons.
 
