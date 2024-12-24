@@ -34,7 +34,7 @@ Now you have the ZIP file, extract it normally (you don't have to use 7-Zip for 
 
 You should end up with a file that looks like this.
 
-![image](https://github.com/user-attachments/assets/207c8670-ca9e-4293-b770-cf4df08b5fcd)
+![image](https://github.com/user-attachments/assets/cbf851c7-ede5-45ab-9fe3-48fb125cc416)
 
 You can delete the readme.md file, its fine if you don’t but probably better if you do.
 
