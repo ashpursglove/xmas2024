@@ -77,7 +77,7 @@ Enjoy!!!
 
 Ok, welcome to the program, the first thing you should see is a pretty blank screen with 6 tabs.
 
-![image](https://github.com/user-attachments/assets/5bca53d5-0182-4419-8d8c-8a42b5773058)
+![image](https://github.com/user-attachments/assets/9fb9ce69-125c-4ab7-a0b5-b51045d8ac4f)
 
 These tabs let you change between the different sections of the program.
 
@@ -87,11 +87,13 @@ Annoyingly I had actually built the program to support switching between Curiosi
 
 Anyway, for now you have the Mars Curiosity Rover and all of its cameras! Start by selecting the camera you want from the dropdown menu.
 
-![image](https://github.com/user-attachments/assets/7b9824a7-2b00-49bc-a941-9ced7e91e723)
+![image](https://github.com/user-attachments/assets/fefffa34-0e13-4061-9a92-18d550e7b894)
 
 And now select if you want to look for pictures on a specific Earth day or a particular Sol. After playing with it a while I prefer to use Sol, but you do you.
 
 ![image](https://github.com/user-attachments/assets/91cff450-3788-4f3d-a905-f4e89238f71e)
+
+![image](https://github.com/user-attachments/assets/d4dc7858-9d02-440a-8f89-91cbe3e33858)
 
 After you have selected which you'd prefer, pop in your preferred date/Sol. Obviously if you’re wanting to look at the landing cams etc go with sol 0.
 
