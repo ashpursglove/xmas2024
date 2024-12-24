@@ -170,7 +170,7 @@ I've also made it run a dark mode by default but I've also make another lighter 
 #
 # Limits and Know Issues
 #
-As this is just for you, I've embedded the API keys into the binaries themselves. As its just your keys, there is a limit to how much you can use this..... turns out it's 1000 requests per hour! If for some reason you hit that limit you will be blocked for 1 hour and then the key will begin to work again.
+As this is just for you, I've embedded the API keys into the binaries themselves. As its just your keys, there is a limit to how much you can use this..... turns out it's 1,000 requests per hour! If for some reason you hit that limit you will be blocked for 1 hour and then the key will begin to work again.
 #
 ~~As a result of how I'm doing the memory stuff on the back end, please avoid changing tabs while a picture is loading. In most cases this is barely an issue but with the long load times for the Mars rover pictures it becomes one. So try to avoid changing tabs whenever you can see a loading bar.~~
 
