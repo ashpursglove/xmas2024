@@ -144,7 +144,7 @@ Just press the "Get Current Astronauts" button and it will show you what manned 
 # Satellite Tracker
 Does what it says on the tin! It finds the exact position of various satellites and shows you where they are and where they're going.
 
-![image](https://github.com/user-attachments/assets/b14483fc-4767-4402-920b-7c01b00c9946)
+![image](https://github.com/user-attachments/assets/204128d7-409a-4217-8140-747e734e6cbf)
 
 I've made it start with just the ISS and Hubble selected so it’s not a giant mess, but as you add more they will be added to the map and their courses for the next orbits mapped.
 
