@@ -120,7 +120,7 @@ Again, once the picture is loaded you can cycle through them with the navigation
 
 For each picture there is a title as well as a description of the picture. Hours of fun!!
 
-![image](https://github.com/user-attachments/assets/3dc5a933-6cf6-46bc-b5fd-e8d4dca3a591)
+![image](https://github.com/user-attachments/assets/7f552d7c-a529-45ce-b328-54b6830ed764)
 
 # EPIC Images
 So EPIC is the Earth Polychromatic Imaging Camera. It’s positioned at the L1 point between the Earth and the Sun which basically means it’s always taking pictures of a fully lit earth.
