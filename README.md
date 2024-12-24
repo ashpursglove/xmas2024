@@ -12,7 +12,8 @@ So, let’s get this up and running on your laptop!!
 # Step 1 - 7-Zip
 First, you're going to need 7-Zip, if you don’t have it, you can download it and install it here
 https://7-zip.org/a/7z2409-x64.exe
-after downloading run the install and you should be good to go, no restarts or anything needed.
+
+After downloading, run the install and you should be good to go, no restarts or anything needed.
 
 # Step 2 - Downloading
 Download all 7 of the .7z files in this repo.
