@@ -105,7 +105,7 @@ Once your picture is up you can cycle through earlier and later picture on that 
 
 If you happen to select a camera on a day/sol where no pictures were taken you will see a pop up telling you so.
 
-![image](https://github.com/user-attachments/assets/1d6801de-a04f-41dd-97cf-588b2ee7055b)
+![image](https://github.com/user-attachments/assets/0a632374-bc4e-48d8-8089-fc083efb97b3)
 
 # NASA Astronomy Picture of the Day
 Every day NASA publish a new picture of something interesting in the world of space.
