@@ -21,7 +21,8 @@ If you know how to use GitHub then you know what youre doing so skip to step 3.
 
 If not then click on the green code button here
 
-![image](https://github.com/user-attachments/assets/af155541-bdfb-4f07-b76a-819eb6aabffd)
+![image](https://github.com/user-attachments/assets/c66a2541-f813-41a9-a820-48e8179718b4)
+
 #  
 After clicking on this button there will be an option to download the ZIP file, click that and download it.
 
