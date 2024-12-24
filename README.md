@@ -26,7 +26,7 @@ If not then click on the green code button here
 #  
 After clicking on this button there will be an option to download the ZIP file, click that and download it.
 
-![image](https://github.com/user-attachments/assets/1f1bd982-cee0-498b-aeb3-788f9f3fbd41)
+![image](https://github.com/user-attachments/assets/a96ed840-0d12-448e-8b92-82dcd9943749)
 
 
 Now you have the ZIP file, extract it normally (you don't have to use 7-Zip for this, just normally is fine) into a folder anywhere you'd like. Make sure there is nothing else in this file, if you extract it into a folder that already has files in the world will literally end... or it'll fail to complile. Either way, lets not risk it. Clean folder please!
