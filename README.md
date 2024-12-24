@@ -1,5 +1,5 @@
 # Merry Christmas Paul!
-# Read All 4 Steps of This First!
+# Read All 6 Steps of This First!
 
 Getting this over to you has been the biggest headache of all!
 I can't use email as its too big as well as being tagged as a virus, I cant put the .exe on Github because its too big, I also tried WeTransfer etc but none of that works as it all thinks its a virus! (Its not....I 
@@ -55,13 +55,21 @@ You can now delete all the other files and move this to somewhere nice. I spent 
 
 See!! so so pretty!
 
+# Step 4 - Turn Off The Internet!!
 
-# Step 4 - Running The Program
+It sounds stupid but when opening it for the very first time it will still get deleted by windows. one way to get round this is to just toggle off your WiFi when you open it. You'll only need to do this the very first time you open it. After that it will open just like any other program.
+# Step 5 - Running The Program
 
 Double click it like any normal program!! duhhh!!
-Legit though on its first start up it'll be fetching a bunch of stuff in the background so give it a good 20-30 seconds before trying it again if you need to!
+Legit though on its first start up it'll be compiling a bunch of stuff in the background so give it a good 20-30 seconds before trying it again if you need to!
+
+# Step 6 - Internet Back On
+
+Once the program is running you can now turn the internet back on. The program will need this to talk to all ther APIs.
 
 Enjoy!!!
+
+
 
 # User Guide - For When You Have it Installed and Running
 
