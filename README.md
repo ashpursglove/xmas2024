@@ -152,7 +152,7 @@ The positions should refresh every 30 seconds but if you're getting impatient yo
 
 The courses are actually computed in the program using the data from the satellites themselves so if you select loads of satellites at once it will bog the program down so try not to select too many at once.
 
-![image](https://github.com/user-attachments/assets/3732392a-6c93-43fa-bf23-80bf0623cc2e)
+![image](https://github.com/user-attachments/assets/fd69d8d0-1f43-4149-a5f0-cde186b63d6c)
 
 Interesting note, because GOES-16 (black) is in a geostationary orbit it doesn't have an orbital track over the ground, how cool is that!!
 
