@@ -1,5 +1,5 @@
 # Merry Christmas Paul!
-Here is a Christmas present to you by way of your very own space app. I can do everything from pulling images from the Curiosity rover on Mars to tracking satellites through space and a bunch more! I really hope you enjoy! Merry Christmas!!
+Here is a Christmas present to you by way of your very own space app. It can do everything from pulling images from the Curiosity rover on Mars to tracking satellites through space and a bunch more! I really hope you enjoy! Merry Christmas!!
 # Read All 6 Steps of This First!
 
 Getting this over to you has been the biggest headache of all!
