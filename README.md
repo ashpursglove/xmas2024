@@ -59,7 +59,7 @@ See!! so so pretty!
 
 # Step 4 - Turn Off the Internet!!
 
-It sounds stupid but when opening it for the very first time it will still get deleted by windows. one way to get round this is to just toggle off your Wi-Fi when you open it. You'll only need to do this the very first time you open it. After that it will open just like any other program.
+It sounds stupid but when opening it for the very first time it will still get deleted by Windows. One way to get round this is to just toggle off your Wi-Fi when you open it. You'll only need to do this the very first time you open it. After that it will open just like any other program.
 # Step 5 - Running the Program
 
 Double click it like any normal program!! Duhhh!!
