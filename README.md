@@ -112,7 +112,7 @@ Every day NASA publish a new picture of something interesting in the world of sp
 
 If you leave the input blank it will pull up the most recent one.
 
-![image](https://github.com/user-attachments/assets/f10af858-ddeb-4794-9985-f3525ca1099a)
+![image](https://github.com/user-attachments/assets/a14d0aec-e754-4408-b9d8-0561da250ecc)
 
 You can also put in any specific date you want to see from.
 
