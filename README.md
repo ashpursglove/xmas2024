@@ -129,7 +129,7 @@ Same deal with the inputs, put in a date or leave it blank for the most recent.
 
 You can see in this picture as it is winter now, Australia is near central in the picture as it is summer there. try loading some pictures and cycling through during our summer times and look at the difference!
 
-![image](https://github.com/user-attachments/assets/3de56b55-1cc2-4461-90c2-30a36af46bcf)
+![image](https://github.com/user-attachments/assets/ea1edf63-954a-4d9e-acb3-e7f476c83c85)
 
 
 # Astronauts
